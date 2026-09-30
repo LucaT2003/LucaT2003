@@ -11,7 +11,7 @@ Elective Modules will be taking:
 4. Deep Learning
 
 
-[LinkIn](https://www.linkedin.com/in/lucaterzariol?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[LinkedIn](https://www.linkedin.com/in/lucaterzariol?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 <!--
 **LucaT2003/LucaT2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
