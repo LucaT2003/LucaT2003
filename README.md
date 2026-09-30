@@ -1,4 +1,4 @@
-# Luca Terzariol
+# Luca Terzari%ol
 
 Student in Msc Statistics (Statistical Finance) at Imperial, B.A. in Statistics from Columbia (2025), and previous experience at Algebris Investments in London (1yr). 
 
@@ -11,7 +11,7 @@ Elective Modules will be taking:
 4. Deep Learning
 
 
-[LinkedIn](https://www.linkedin.com/in/lucaterzariol?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[LinkIn](https://www.linkedin.com/in/lucaterzariol?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 <!--
 **LucaT2003/LucaT2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
