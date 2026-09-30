@@ -4,7 +4,7 @@ Student in Msc Statistics (Statistical Finance) at Imperial, B.A. in Statistics 
 
 Currently interested in financial markets and intersection with stats.
 
-Elective Modules will be taking:
+Elective Modules will be taking in T2:
 1. Time Series
 2. Intro to Stat Finance
 3. Advanced Stat Finance
