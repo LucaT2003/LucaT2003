@@ -13,6 +13,10 @@ Elective Modules will be taking in T2:
 
 [LinkedIn](https://www.linkedin.com/in/lucaterzariol?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
+---
+
+Last updated: 2026/09/30
+
 <!--
 **LucaT2003/LucaT2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
