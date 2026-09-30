@@ -1,4 +1,4 @@
-# Luca Terzari%ol
+# Luca Terzariol
 
 Student in Msc Statistics (Statistical Finance) at Imperial, B.A. in Statistics from Columbia (2025), and previous experience at Algebris Investments in London (1yr). 
 
